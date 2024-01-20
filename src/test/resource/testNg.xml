@@ -1,0 +1,10 @@
+<suite name="suite001">
+<test name="test001">
+<classes>
+<class name="com.phase3.restassured.RegisterUser001"></class>
+<class name="com.phase3.restassured.GetUser002"></class>
+<class name="com.phase3.restassured.LoginUser003"></class>
+<class name="com.phase3.restassured.LoggingRequest004"></class>
+</classes>
+</test>
+</suite>
